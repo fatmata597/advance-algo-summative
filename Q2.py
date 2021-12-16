@@ -7,4 +7,7 @@ def grade(n):
             return n
         else:
             return n+(5-modular)
-print(grade(33))
+print(grade(33), "is your final grade")
+print(grade(67), "is your final grade")
+print(grade(38), "is your final grade")
+print(grade(73), "is your final grade")
